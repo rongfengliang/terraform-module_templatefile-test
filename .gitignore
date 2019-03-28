@@ -1,0 +1,7 @@
+.terraform/**
+terraform.tfstate
+init.sh
+terraform.tfstate.backup
+init2.sh
+gitlab.rb
+newconfig.rb
